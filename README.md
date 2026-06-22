@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Manjas Singh Sethi
 **A passionate Software Engineer**
 
-Email Me 👉 ✉️ **manjassethi100@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 **manjassethi100@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🌱 **I’m currently learning:** Python
 - 💬 **Ask me about:** Collaboration, Tech Support
